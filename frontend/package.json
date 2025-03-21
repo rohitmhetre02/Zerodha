@@ -46,4 +46,11 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0"
   }
+
+  {
+  "engines": {
+    "node": "18.x"
+  }
+}
+
 }
